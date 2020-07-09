@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am Saurabh. Currently I am working at [Crowdfire](https://www.crowdfireapp.com/) as frontend developer and have worked as a software developer since 2015
-I also like writing technical articles, create opensource projects, teaching students and help other developers in any way I possibly can.
+I am Saurabh. Currently I am working at [Crowdfire](https://www.crowdfireapp.com/) as a frontend developer and have worked in IT industry since 2015.   
+I also like writing technical articles, create opensource projects, teaching students and help other developers in any way I possibly can.   
 In my spare time I practice Guitar tunes of mostly romantic songs, recently started started practicing tunes on piano and like to play videogames on PC a lot🎮.
 
 - 🌱 I’m currently learning web technologies, frameworks, ways to improve my overall technical knowledge and skillset.
