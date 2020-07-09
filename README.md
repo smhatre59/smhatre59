@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Saurabh. I'm a programmer who loves working in frontend development and have worked as a software developer since 2015.     
+I am Saurabh. Currently I am working at [Crowdfire](https://www.crowdfireapp.com/) as frontend developer and have worked as a software developer since 2015
 I also like writing technical articles, create opensource projects, teaching students and help other developers in any way I possibly can.
 In my spare time I practice Guitar tunes of mostly romantic songs, recently started started practicing tunes on piano and like to play videogames on PC a lot🎮.
 
@@ -8,8 +8,8 @@ In my spare time I practice Guitar tunes of mostly romantic songs, recently star
 - 💬 Ask me about: Developing frontend projects or doubts related to starting off in career of software development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saurabh-mhatre) or [Twitter](https://twitter.com/saurabhnative)
 - 🕸 Online portfolio: [DevPortfolio](https://saurabhmhatre.netlify.app/)
-- 📖 Personal blog: https://coderwhodreams.com/
-- ⚡ Fun fact: I have written 50+ articles on software development on medium. Check them out here [Medium](https://medium.com/@smhatre59)
+- 📖 Personal blog: [Coderwhodreams](https://coderwhodreams.com/)
+- ⚡ Fun fact: I have written 50+ articles on software development on medium. Check them out here: [Medium Profile](https://medium.com/@smhatre59)
 
 <!--
 **smhatre59/smhatre59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
