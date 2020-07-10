@@ -1,5 +1,5 @@
 ## Hi there 👋
-### A brief Intro
+### A brief Intro 🎩
 -  I am currently working at [Crowdfire](https://www.crowdfireapp.com/) as a frontend developer and have worked in IT industry since 2015.  
 -  I have experience in technologies like React, Node.js and ReactNative.
 -  🌱 I like to learn about web technologies, data science concepts and ways to improve my overall productivity as a developer.
@@ -19,9 +19,9 @@
 ### Fun fact ⚡ 
  - I have written 50+ articles on web development and data science on [Medium](https://medium.com/@smhatre59) so feel free to check them out.
 
-### Ask me about 💬: 
+### Ask me about 💬
 Developing frontend projects or doubts related to starting off as a fresher in the field of software development.
 
-### Personal projects
+### Personal projects 💼
 - 🕸 Online portfolio: [DevPortfolio](https://saurabhmhatre.netlify.app/)
 - 📖 Personal blog: [Coderwhodreams](https://coderwhodreams.com/)
