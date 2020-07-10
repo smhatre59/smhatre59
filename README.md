@@ -7,7 +7,7 @@
 -  I also like writing technical articles, creating opensource projects, teaching students on weekends sometimes and help other developers in any way I possibly can. 
 
 ### Hobbies ❄️
- - In my spare time I like to play bollywood tunes of mostly romantic songs on my own guitar or piano app and share them on status updates to gain attention.
+ - In my spare time I like to play bollywood tunes of mostly romantic songs on my own guitar or piano app and share them on status updates quite frequently😛.
  - I used to play PC videogames since childhood a lot and still do sometimes to chill out. 
  - I read fiction/non-fiction novels on weekends so feel free to send in your suggestions :D
 
