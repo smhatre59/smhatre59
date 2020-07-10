@@ -14,11 +14,13 @@
 ### Reach me @
 - [LinkedIn](https://www.linkedin.com/in/saurabh-mhatre)
 - [Twitter](https://twitter.com/saurabhnative)
-- [Medium Profile](https://medium.com/@smhatre59)     
-⚡ Fun fact: I have written 50+ articles on software development on [Medium](https://medium.com/@smhatre59) so feel free to check them out.
+- [Medium Profile](https://medium.com/@smhatre59)  
+
+### Fun fact ⚡ 
+ - I have written 50+ articles on web development and data science on [Medium](https://medium.com/@smhatre59) so feel free to check them out.
 
 ### Ask me about 💬: 
-Developing frontend projects or doubts related to starting off in career of software development.
+Developing frontend projects or doubts related to starting off as a fresher in the field of software development.
 
 ### Personal projects
 - 🕸 Online portfolio: [DevPortfolio](https://saurabhmhatre.netlify.app/)
