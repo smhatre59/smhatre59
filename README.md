@@ -1,20 +1,25 @@
-### Hi there 👋
-I am Saurabh. Currently I am working at [Crowdfire](https://www.crowdfireapp.com/) as a frontend developer and have worked in IT industry since 2015.   
-I also like writing technical articles, creating opensource projects, teaching students and help other developers in any way I possibly can.   
-In my spare time I like to play bollywood tunes of mostly romantic songs on guitar or piano and like to play videogames on PC a lot 🎮.
+## Hi there 👋
+### A brief Intro
+-  I am currently working at [Crowdfire](https://www.crowdfireapp.com/) as a frontend developer and have worked in IT industry since 2015.  
+-  I have experience in technologies like React, Node.js and ReactNative.
+-  🌱 I’m currently learning web technologies, data science concepts and ways to improve my overall productivity as a developer.
+-  Although I truly never understand the inner workings of complex neural networks completely their current applications have truly blown me away and I constantly try to read about new concepts in this field like an innocent child marvelling at new toys.
+-  I also like writing technical articles, creating opensource projects, teaching students on weekends sometimes and help other developers in any way I possibly can. 
 
-- 🌱 I’m currently learning web technologies, frameworks, ways to improve my overall technical knowledge and skillset.
-- 🤔 I’m looking for help with my personal projects and writing technical articles.
-- 💬 Ask me about: Developing frontend projects or doubts related to starting off in career of software development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saurabh-mhatre) or [Twitter](https://twitter.com/saurabhnative)
+### Hobbies ❄️
+ - In my spare time I like to play bollywood tunes of mostly romantic songs on my own guitar or piano app and share them on status updates to gain attention.
+ - I used to play PC videogames since childhood a lot and still do sometimes to chill out. 
+ - I read fiction/non-fiction novels on weekends so feel free to send in your suggestions :D
+
+### Reach me @
+- [LinkedIn](https://www.linkedin.com/in/saurabh-mhatre)
+- [Twitter](https://twitter.com/saurabhnative)
+- [Medium Profile](https://medium.com/@smhatre59)
+⚡ Fun fact: I have written 50+ articles on software development on [Medium](https://medium.com/@smhatre59) so feel free to check them out.
+
+### Ask me about 💬: 
+Developing frontend projects or doubts related to starting off in career of software development.
+
+### Personal projects
 - 🕸 Online portfolio: [DevPortfolio](https://saurabhmhatre.netlify.app/)
 - 📖 Personal blog: [Coderwhodreams](https://coderwhodreams.com/)
-- ⚡ Fun fact: I have written 50+ articles on software development on medium. Check them out here: [Medium Profile](https://medium.com/@smhatre59)
-
-<!--
-**smhatre59/smhatre59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on improving and adding new features to Crowdfire website, creating fun side projects and improving my blog's social media presence.
--->
